@@ -34,7 +34,7 @@ O **`manus-analyzer`** é uma ferramenta de linha de comando que utiliza modelos
 
 Instale localmente via pip (modo editável):
 ```bash
-git clone https://github.com/seuusuario/manus-analyzer.git
+git clone https://github.com/paulofreitas-py/manus-analyzer.git
 cd manus-analyzer
 pip install -e .
 
