@@ -1,3 +1,5 @@
+<div align="center">
+  <img src="https://github.com/paulofreitas-py/Help-Chat/blob/main/img/logo1.png" width="150" alt="Help Chat Logo" />
 <h1 align="center">🤖 manus-analyzer</h1>
 <p align="center">Análise técnica e automatizada de projetos com LLMs.</p>
 
