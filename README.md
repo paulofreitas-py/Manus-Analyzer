@@ -4,15 +4,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-powered-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/status-alpha-orange?style=flat-square" />
-  <img src="https://img.shields.io/github/license/seuusuario/manus-analyzer?style=flat-square" />
+  <img src="https://img.shields.io/github/license/paulofreitas-py/manus-analyzer?style=flat-square" />
   <img src="https://img.shields.io/pypi/pyversions/manus-analyzer?style=flat-square" />
+  <img src="https://img.shields.io/badge/python-3.8+-blue.svg"/>
+  <img src="https://img.shields.io/badge/build-passing-brightgreen"/>
 </p>
 
-![PyPI](https://img.shields.io/pypi/v/manus-analyzer?color=blue)
-![License](https://img.shields.io/github/license/seuusuario/manus-analyzer)
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Status](https://img.shields.io/badge/status-alpha-orange)
 ---
 
 ## 🚀 Sobre o projeto

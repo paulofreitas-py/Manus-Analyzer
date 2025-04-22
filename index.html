@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>manus-analyzer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #0e0e0e;
+      color: #eaeaea;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #38bdf8;
+    }
+    p {
+      max-width: 700px;
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+    .badge-container {
+      margin: 1rem 0;
+    }
+    .badge-container img {
+      margin: 0 0.3rem;
+    }
+    .button {
+      margin-top: 2rem;
+      background-color: #38bdf8;
+      color: #0e0e0e;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1rem;
+      text-decoration: none;
+    }
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🤖 manus-analyzer</h1>
+    <p>Ferramenta CLI com IA para geração de relatórios técnicos automatizados a partir do seu projeto de código.</p>
+    <div class="badge-container">
+      <img src="https://img.shields.io/pypi/v/manus-analyzer?color=blue" alt="PyPI version">
+      <img src="https://img.shields.io/github/license/seuusuario/manus-analyzer" alt="License">
+      <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python version">
+      <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build status">
+    </div>
+    <a class="button" href="https://github.com/seuusuario/manus-analyzer" target="_blank">Ver no GitHub</a>
+  </header>
+
+  <main>
+    <p><strong>Instalação:</strong> <code>pip install manus-analyzer</code></p>
+    <p><strong>Uso:</strong> <code>manus-analyzer ./meu-projeto -o relatorio.md</code></p>
+    <p>Ideal para times de devs, documentação técnica automatizada, engenharia reversa e análise de legado.</p>
+  </main>
+
+  <footer>
+    <p>Desenvolvido com ☕ por Paulo | MIT License</p>
+  </footer>
+</body>
+</html>
