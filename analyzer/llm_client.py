@@ -8,4 +8,5 @@ def analyze_with_openai(prompt):
             {"role": "user", "content": prompt}
         ]
     )
+    # Retorna o conteúdo da mensagem gerada
     return response['choices'][0]['message']['content']
