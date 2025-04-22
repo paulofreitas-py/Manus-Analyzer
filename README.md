@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/paulofreitas-py/Manus-Analyzer/blob/main/img/logo.webp" width="150" alt="manus-analyzer" />
-<h1 align="center">🤖 manus-analyzer</h1>
+<h1 align="center">🤖 Manus Analyzer</h1>
 <p align="center">Análise técnica e automatizada de projetos com LLMs.</p>
 
 <p align="center">
